@@ -1,6 +1,6 @@
 ## GDI Scaling Patch
 
-Some older GDI games doesnt scale to fullscreen on modern computers and monitors. This patch will re-scale the game to fit on higher resolution computers in fullscreen mode. Download the <strong>gdi_scaling_patch.zip</strong> and add <strong>winmm.dll</strong> + <strong>winmm_orig.dll</strong> next to your .exe file.
+Some older GDI games doesnt scale to fullscreen on modern computers and monitors. This patch will re-scale the game to fit on higher resolution computers in fullscreen mode. Download the <strong>gdi-scaling-patch.zip</strong> and add <strong>winmm.dll</strong> + <strong>winmm_orig.dll</strong> next to your .exe file.
 
 Download Latest: [https://github.com/zhiftyDK/gdi-scaling-patch/releases/latest](https://github.com/zhiftyDK/gdi-scaling-patch/releases/latest)
 
